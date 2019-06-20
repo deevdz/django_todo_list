@@ -26,7 +26,8 @@ SECRET_KEY = '3*8qzp0)a3v8rjh$x!%dn&bq($uyp8m0^pze0eberjao(#2e#m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['django-todo-deevdz.c9users.io']
+ALLOWED_HOSTS = ['django-todo-deevdz.c9users.io',
+                'deevdz-django-todolist.herokuapp.com']
 
 
 # Application definition
